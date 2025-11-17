@@ -64,13 +64,7 @@ venv.bak/
 .env
 .env.*
 
-# Model and data artifacts
-model/saved_model/
-model/*.pth
-saved_model/
-*.pt
-*.pth
-*.ckpt
+
 
 # Uploads (user-submitted files)
 api/uploads/
